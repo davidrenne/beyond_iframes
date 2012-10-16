@@ -1,0 +1,28 @@
+.url
+{
+   font-size:xx-large;
+}
+
+.toparea
+{
+   margin-top: 15px;
+   padding-bottom: 15px;
+   border-bottom: 1px solid #EBEBEB;
+}
+
+body
+{
+   margin: 0;
+   text-align: center;
+}
+
+iframe
+{
+   height: 70%;
+   width: 49%;
+}
+
+#url1,#url2
+{
+   width:40%;
+}
